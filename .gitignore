@@ -1,0 +1,6 @@
+venv/
+models/__pycache__/
+views/__pycache__/
+controllers/__pycache__/
+untils/__pycache__/
+bmi_data.db
